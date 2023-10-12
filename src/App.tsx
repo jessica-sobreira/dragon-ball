@@ -16,7 +16,7 @@ import DragonZ from './assets/images/dragonBallZ.png';
 import Dragon from './assets/images/dragon-ball.jpg';
 import Kakarot from './assets/images/Kakarot.jpg';
 import Kame from './assets/images/kame kame ha.jpg';
-// import Contato from './assets/images/contato.png';
+
 
 function App() {
 
