@@ -9,7 +9,7 @@ export const ContatoContainer = styled.div`
     align-items: center;
     justify-content: center;
 
-    background-image: url("./src/assets/images/contato.png");
+    background-image: url("/src/assets/images/contato.png");
     background-size: cover;
     background-position-y: -500px;
 
