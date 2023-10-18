@@ -1,5 +1,5 @@
 import styled from "styled-components";
-
+import contato from "/src/assets/images/contato.png";
 
 export const ContatoContainer = styled.div`
     height: 40vh;
@@ -9,7 +9,7 @@ export const ContatoContainer = styled.div`
     align-items: center;
     justify-content: center;
 
-    background-image: url(/src/assets/images/contato.png);
+    background-image: url(${contato});
     background-repeat: no-repeat;
     background-size: cover;
     background-position-y: -500px;
