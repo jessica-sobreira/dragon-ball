@@ -18,7 +18,7 @@ export const FooterSite = () => {
                     <span className="divisor">•</span>
                     <span>Privacidade</span>
                 </div>
-                <p id="name-site"> © Dragon Ball Z 2023. Todos os direitos reservados.</p>
+                <p id="name-site"> Jéssica Sobreira 2023.</p>
             </div>
             <div id="footer-icons">
                 <img src={FacebookIcone}  />
